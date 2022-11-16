@@ -1,6 +1,6 @@
 
 /**
-	* Node.js Login Boilerplate
+	* Node.js Login Boilerpla
 	* https://node-login.braitsch.io
 	* (c) 2013-2021 Stephen Braitsch
 **/
