@@ -6,7 +6,7 @@ const countries = require('./json/countries');
 module.exports = function(app) {
 
 /*
-	login & logout
+	login & logout % yersdy
 */
 
 	app.get('/', function(req, res){
